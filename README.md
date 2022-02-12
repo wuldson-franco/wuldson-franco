@@ -3,6 +3,13 @@
                                                            
 
 #### Repository containing some projects that I've done or that I'm still doing 
+|                         |                          |
+|:-----------------------:|:------------------------:|
+| Capacidade de Liderança |        Empatia           |
+| Criatividade            | Inteligência Emocional   |
+| Resoluto                | Paciência                |
+| Flexibilidade           | Capacidade de Comunicação|
+| Resiliência             | Companheiro              |
 
 
 <a href="https://github.com/wuldson-franco" alt="github" target="_blank">
