@@ -79,8 +79,14 @@
 
 </a>
 
-<a href="https://v8tech.com.br" alt="" target="_blank">
+<a href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="" target="_blank">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+</a>
+
+<a href="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" target="_blank">
+
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
 </a>
