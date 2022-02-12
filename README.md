@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wuldson-franco&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
 
 
-# Skills
+# Hard Skills
 <a href="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SqlServer" target="_blank">
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
