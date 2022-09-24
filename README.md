@@ -99,3 +99,7 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
 </a>
+
+<a href="https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" target="_blank">
+
+<img src="https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white">
